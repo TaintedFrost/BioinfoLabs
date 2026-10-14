@@ -1,0 +1,9 @@
+0. make an applicattion which is able to translate RNA molecules into proteins. Please use the genetic code table from the slide.
+
+1. Navigate to NCBI and download at choice a viral genome or the bactireal genome as a FASTA file. \
+
+2. Make an application that is able to scan the entire genome by using a sliding window of 3 position (letters).
+By using this sliding window measure the frequency of each codons . In total you will have how many codons 64 codons. 
+However show the highest frequencyfo the top 10 codons in your results. Make a chart that show the top 10 frequencys.
+
+

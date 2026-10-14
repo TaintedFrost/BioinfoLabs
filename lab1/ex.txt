@@ -1,0 +1,1 @@
+make a function that detects freq of combinations of 2 and 3 letters. show the freq on a chart for each in descending order.
