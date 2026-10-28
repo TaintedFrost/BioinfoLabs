@@ -1,0 +1,14 @@
+Gel electrophoresis is an analysis method used in all disciplines of the life sciences.
+The results of gel electrophoresis indicate the relative sizes of the fragments, which is useful for restriction mapping and for analyzing PCR fragments.
+
+1. Take an arbitrary DNA sequence from NCBI (National Center for Biotechnology Information), between 1000 and 3000 nucleotides (letters).
+2. Take 10 random samples from this sequence, between 100 and 3000 bases.
+3. Store these samples in an array.
+4. Simulate the migration of these DNA segments on the electrophoresis gel, based on their molecular weight (number of nucleotides).
+
+**Note:** Short DNA fragments meet small friction forces and travel fast through the electrophoresis gel, while long DNA fragments exhibit a high friction force and travel slowly through the gel.
+
+Task 2
+1. Take an arbitary DNA sequence From NCBI, between 1000 from 3000 letters
+2. Implement a sofware application that detects repetitions between 6 bases and 10 bases in a DNA  sequence. so the rpetition should be between 6 and 10
+The maximum lenght of the repetitions can be between between 3 and 5
