@@ -1,0 +1,12 @@
+Make an artificial DNA sequence of 200 to 400 bases in length, in which to simulate 3 to 4 transposable elements.
+
+Implement a software application which can detect the positions of these 
+transposable elements (start,end) within the created DNA sequence.
+
+Intersect 2 or 3 transposones to see how the algorith behaves in these situations.
+
+
+Try to detect possable transposones. let say the minimumis 10 bases
+
+
+TRANSPOSON
