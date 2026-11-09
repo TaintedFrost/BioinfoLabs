@@ -1,0 +1,6 @@
+Use the fasta file to take samples from it. (random windows that take samples 100-150 nucletoides/letters;) 20k samples.
+consider the 20k samples were given on a drive. Use them to make the original genome.
+Take sample by sample and compare to see what they have in common. If they have a part in common it means that they have a seed. Take another sample, compare with the seed. Nothing in common, disregard. until the endings of the seed match the endings of the seed; add to the seed.
+Secret: from info standpoint, we should not take areas that are in common that are < 10 letters If there's that few, the prob that we match the wrong one is very high.
+
+Simulate the breaking of the genome in samples and put the genome back together.
