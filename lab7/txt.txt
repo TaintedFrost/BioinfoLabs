@@ -1,0 +1,31 @@
+Take an arbitary DNA sequence from the NCBI between 1000 and 3000 neucloid to use 5 
+restriction enzimes(the enzime name the recognized sequence or motive and the clevige side)
+Input of the implementation should be
+1. the recognized sequence for each restriction enzyme
+2. a DNA sequence to be digested
+Output of a implementation should be 
+1. the nuber of cleaveges for each restricion enzyme
+2. cleavege position and lenght of fragments
+3. a simulation of the electrofloresence gel based on the number of restiction enzymes used.
+////////////////////////////////
+
+
+Take an arbitrary DNA sequence from the NCBI between 1000 and 3000 nucleotides to use
+3 restriction enzymes (the enzyme name, the recognized sequence or motif, and the cleavage site)
+Input of the implementation should be:
+1. The recognized sequence for each restriction enzyme
+2. A DNA sequence to be digested
+
+Output of the implementation should be:
+1. The number of cleavages for each restriction enzyme
+2. Cleavage positions and length of fragments
+3. A simulation of the gel electrophoresis based on the number of restriction enzymes used.
+
+
+Digest 2 genomes from 2 version of the same virus and show the digested segments on seperaate collums 
+of the same electroflorecence gel.
+
+
+
+//////////////////////
+1 take an arbitary DNA seq from NCBI , bw 1000-3000 nucleotides(letters) 2 use 5 restriction enzymes(name,recognizedd seq,cleaavage site)
