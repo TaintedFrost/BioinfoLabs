@@ -1,0 +1,14 @@
+Implement a software application that makes DNA patterns from DNA sequences in gene promoters.
+Compute the C+G% and the information content values from each sliding window to ensure that the algorithm implementation works correctly use the following steps:
+1. Use the sequence S=CGGACTGATCTATCT(A27)CGTAGCATCTATCGATCTATCTAGCGATCTA
+2. Use sliding window L=30b
+3. Build a function to process the CpG content, return=> GG=~ 29.27
+4. Build a function to process the information content. The value that the function must return Ic=~ 27.53
+5. Plot the pattern
+6. Calculate the center of weight of the pattern.
+7. Take the center of each pattern and plot it on a second chart
+8. Take the DNA sequence of a promoter and generate a pattern. Open promK from github and see if your pattern is the same
+
+
+Implement the software application that allings 2 DNA sequences by using the global Sequence alligment.
+You have 2 sequnces:s1=ACCGTGAAGCCAATAC  s2=AGCGTGCAGCCAATAC
